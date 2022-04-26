@@ -1,4 +1,4 @@
-# superstore
+# Superstore
 #### Superstore App 
 Code Files are currently in master branch
 #### Superstore App Screenshots
